@@ -1,0 +1,9 @@
+{
+    "code": 200,
+    "msg": "上传成功",
+    "data": {
+        "file": "mxt\/agent\/9fcc57d1331bd937f0c51118b0ab1222.jpg",
+        "url": "http:\/\/mxt2.oss-cn-shenzhen.aliyuncs.com\/mxt\/agent\/9fcc57d1331bd937f0c51118b0ab1222.jpg",
+        "title": "9fcc57d1331bd937f0c51118b0ab1222"
+    }
+}
