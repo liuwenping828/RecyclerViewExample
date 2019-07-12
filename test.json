@@ -1,5 +1,7 @@
 {
     "code": 200,
     "msg": "成功",
-    "data": ""
+    "data": {
+        "share_url": "http:\/\/apiagenttext.minxuntong.com\/register\/index?api_token=fa5598299c2ad8bbm8NRlbA+cvnwGnMyScQDFYkC525Bzxx4oyLGwuBWtCIxGmGkZ2SVocmIkOc0Dx8\/&source=code&style=4"
+    }
 }
